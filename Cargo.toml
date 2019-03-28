@@ -1,0 +1,8 @@
+[package]
+name = "web_pencil"
+version = "0.1.0"
+authors = ["Horácio Dias Baptista Neto <horacio.dias92@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+pencil = "0.3.0"
